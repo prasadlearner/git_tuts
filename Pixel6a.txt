@@ -1,4 +1,4 @@
 Processor : Tensor
 Android : 13
-Cams : 12MP
+Cams : 12.5MP
 
